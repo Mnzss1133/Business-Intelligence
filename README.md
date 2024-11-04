@@ -1,7 +1,8 @@
 # Business-Intelligence
 
-## Trabalho Ac de BI
-### Integrantes :
-#### * João Pedro Passos
-#### * Thiago brandão
-#### * Breno França
+## Trabalho Acadêmico de BI
+
+### Integrantes:
+- João Pedro Passos
+- Thiago Brandão
+- Breno França
