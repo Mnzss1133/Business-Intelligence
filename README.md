@@ -1,7 +1,7 @@
 # Business-Intelligence
 
-### Trabalho Ac de BI
+## Trabalho Ac de BI
 ### Integrantes :
-## João Pedro Passos
-## Thiago brandão
-## Breno França
+#### João Pedro Passos
+#### Thiago brandão
+#### Breno França
