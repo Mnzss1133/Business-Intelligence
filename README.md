@@ -1,6 +1,6 @@
 # Business-Intelligence
 
-## Trabalho Acadêmico de BI
+## Trabalho AC de BI
 
 ### Integrantes:
 - João Pedro Passos
